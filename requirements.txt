@@ -135,7 +135,7 @@ SudachiPy==0.6.10
 sympy==1.14.0
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
-thinc==8.3.4
+thinc==8.1.12
 threadpoolctl==3.6.0
 tiktoken==0.9.0
 tokenizers==0.21.2
