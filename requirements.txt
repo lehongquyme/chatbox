@@ -1,9 +1,9 @@
-fastapi
-uvicorn
-pydub
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+pydub==0.25.1
 TTS>=0.15,<0.22
-openai-whisper
-soundfile
-torch
-requests
-pydantic
+openai-whisper==20231117
+soundfile==0.12.1
+torch==2.1.2
+requests==2.31.0
+pydantic==1.10.13
