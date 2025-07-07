@@ -10,4 +10,3 @@ services:
         value: 8000
     build:
       pythonVersion: 3.11.13
-      
