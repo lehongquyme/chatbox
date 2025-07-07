@@ -1,7 +1,7 @@
 fastapi==0.110.1
 uvicorn==0.29.0
 pydub==0.25.1
-TTS>=0.15,<0.22
+TTS==0.15.4
 openai-whisper
 soundfile
 torch
