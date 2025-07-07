@@ -1,4 +1,7 @@
-fastapi
-uvicorn
-requests
-pydantic
+fastapi==0.111.0
+uvicorn==0.30.1
+gunicorn==21.2.0
+requests==2.32.3
+pydantic==2.7.1
+python-multipart==0.0.9 
+blis==0.7.11 --prefer-binary
