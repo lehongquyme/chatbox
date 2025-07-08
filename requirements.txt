@@ -1,4 +1,6 @@
-fastapi
+gunicorn
 uvicorn[standard]
+fastapi
 jinja2
 httpx
+python-multipart
