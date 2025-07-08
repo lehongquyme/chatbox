@@ -7,7 +7,7 @@ import os
 import requests
 
 # Replace this with your ngrok/cloudflared endpoint later
-OLLAMA_API_BASE = os.getenv("OLLAMA_API", "http://localhost:11434")
+OLLAMA_API_BASE = os.getenv("OLLAMA_API", "https://6e352132955b.ngrok-free.app")
 
 
 def get_llm_response(prompt: str) -> str:
